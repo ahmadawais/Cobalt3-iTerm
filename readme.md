@@ -2,7 +2,7 @@
 
 Two things for lovers of the [Sublime Text Theme](https://github.com/wesbos/cobalt3). Cobalt3 in your terminal!
 
-![](http://wes.io/Ub3k/content)
+![](https://i.imgur.com/TSC8ewE.png)
 
 `cobalt3.itermcolors` is for anyone who uses iTerm2 and wants the colours. The `cobalt3.zsh-theme` is the prompt layout for zsh users. 
 
