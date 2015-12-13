@@ -16,7 +16,8 @@ They work well together! You will need to install the patched powerline font as 
 5. Under the *Text* tab change the font for each type (*Regular* and *Non-ASCII*) to '**Inconsolata for Powerline**'. (Refer to the [powerline-fonts repo](https://github.com/powerline/fonts) for help on font installation.)
 6. Refresh ZSH by typing `source ~/.zshrc` on the command line.
 
+---
 
-##Fork
-This theme is a fork of [Cobalt2 iTerm theme](https://github.com/wesbos/Cobalt2-iterm) by Wes Bos @wesbos. Thank you Wes for all your efforts. I've forked it to add my own flavor to it. Mostly colors, yes it is purple, because purple can be genius.
+##Fork of Cobalt2-iTerm
+This theme is a fork of [Cobalt2 iTerm theme](https://github.com/wesbos/Cobalt2-iterm) by Wes Bos @wesbos. Thank you Wes and all other contributors for all your efforts. I've forked it to add my own flavor to it. Mostly colors, yes it is purple, because purple can be genius.
 
