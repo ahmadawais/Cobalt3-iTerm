@@ -18,6 +18,6 @@ They work well together! You will need to install the patched powerline font as 
 
 ---
 
-##Fork of Cobalt2-iTerm
+###Fork of Cobalt2-iTerm
 This theme is a fork of [Cobalt2 iTerm theme](https://github.com/wesbos/Cobalt2-iterm) by Wes Bos @wesbos. Thank you Wes and all other contributors for all your efforts. I've forked it to add my own flavor to it. Mostly colors, yes it is purple, because purple can be genius.
 
