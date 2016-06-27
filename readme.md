@@ -1,16 +1,18 @@
 # Cobalt3 for iTerm2 and ZSH
+I love purple, because purple can be genius.
 
 Two things for lovers of the [Sublime Text Theme](https://github.com/wesbos/cobalt2). Cobalt3 in your terminal!
 
 Forked by [Ahmad Awais](http://AhmadAwais.com/)
 
-![](https://i.imgur.com/TSC8ewE.png)
+![](https://i.imgur.com/pDB5LjL.jpg)
 
 `cobalt3.itermcolors` is for anyone who uses iTerm2 and wants the colours. The `cobalt3.zsh-theme` is the prompt layout for zsh users. 
 
 They work well together! You will need to install the patched powerline font as well: <https://github.com/powerline/fonts>
 
-####Step-by-step installation
+#### Step-by-step Installation
+
 1. Drop the `cobalt3.zsh-theme` file in to the `~/.oh-my-zsh/themes/` directory.
 2. Open up your ZSH preferences at `~/.zshrc` and change the theme variable to `ZSH_THEME="cobalt3"`.
 3. In iTerm2 access the *Preferences* pane on the *Profiles* tab.
@@ -19,6 +21,22 @@ They work well together! You will need to install the patched powerline font as 
 6. Refresh ZSH by typing `source ~/.zshrc` on the command line.
 
 
-###Fork of Cobalt2-iTerm
-This theme is a fork of [Cobalt2 iTerm theme](https://github.com/wesbos/Cobalt2-iterm) by Wes Bos @wesbos. Thank you Wes and all other contributors for all your efforts. I've forked it to add my own flavor to it. Mostly colors, yes it is purple, because purple can be genius.
+### License
+Cobalt3 is licensed under GPLv2.0.
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation; either version 2 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+Thank you Wes Bos and all other contributors for all your efforts. Added my own flavor to Cobalt2.
 
