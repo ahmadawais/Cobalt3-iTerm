@@ -1,8 +1,8 @@
 <table width="100%">
     <tr>
         <td align="left" width="100%" colspan="2">
-            <strong>WPSass</strong><br />
-            An awesome Cobalt3 theme for iTerm2 and ZSH.
+            <strong>Cobalt3 Theme for iTerm2 and ZSH</strong><br />
+            I love purple, because purple can be genius.
         </td>
     </tr>
     <tr>
@@ -18,9 +18,6 @@
 </table>
 
 An awesome Cobalt3 theme for iTerm2 and ZSH.
-
-# Cobalt3 for iTerm2 and ZSH
-I love purple, because purple can be genius.
 
 Two things for lovers of the [Sublime Text Theme](https://github.com/wesbos/cobalt2). Cobalt3 in your terminal!
 
